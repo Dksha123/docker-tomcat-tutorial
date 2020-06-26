@@ -1,5 +1,5 @@
 FROM tomcat:8.0-alpine
-LABEL maintainer="samridhi9719"
+LABEL maintainer="deeksha"
 
 COPY sample.war /usr/local/tomcat/webapps/
 
